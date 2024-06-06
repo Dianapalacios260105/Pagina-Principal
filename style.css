@@ -1,0 +1,21 @@
+li{
+    font-size: 20px;
+    color: rgb(31, 57, 83);
+    font-weight: bold;
+}
+#jefe{
+    font-size: 50px;
+    color: rgb(31, 144, 138);
+}
+.subtitulo{
+    color: rgb(137, 112, 22);
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(33, 104, 128);
+}
